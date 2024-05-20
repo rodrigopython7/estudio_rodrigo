@@ -1,2 +1,2 @@
-# estudio_rodrigo
+# estudo_rodrigo
 Projetinho básico
